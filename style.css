@@ -1,0 +1,15 @@
+body{background-color: #342014;}
+h1{font-size: 1.7rem;
+font-family: Verdana;
+color: #D8C89B;}
+p{font-size: 1.2rem;
+font-family: Verdana;
+color: #C9A84A;}
+img{width: 300px;
+    display: block;
+}
+.image_text{font-size: 1rem;
+margin-bottom: 30px;
+margin-top: 0%;
+}
+a{color: #ffcc53;}
